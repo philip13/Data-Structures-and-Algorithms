@@ -35,3 +35,6 @@ nested loops
 - Data Structures
 - Function Call
 - Allocations
+
+
+[Read more](https://www.bigocheatsheet.com/)
