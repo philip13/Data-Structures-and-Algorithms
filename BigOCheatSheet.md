@@ -38,3 +38,13 @@ nested loops
 
 
 [Read more](https://www.bigocheatsheet.com/)
+____________________________________________
+
+## Interview: How to solve Problems
+
+1. Analytic Skills
+2. Coding Skills
+3. Technical Skills
+4. Communication Skills
+
+[Technical Interview mind Map](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link/c25f98c73a03f5b1107cd0e2f4bce29c9d78e31655e55cb0b785d56f0036c9d1)
