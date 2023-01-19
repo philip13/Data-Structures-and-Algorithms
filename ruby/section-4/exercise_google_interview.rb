@@ -4,7 +4,7 @@
 # assum tat they are ordered
 # all integers and can be negatives
 
-# Given one array, find two numbers that adding bewing are the result 
+# Given one array, find two numbers that adding betwing are the result 
 
 # 2 inputs 
 # array of integers, integer num
