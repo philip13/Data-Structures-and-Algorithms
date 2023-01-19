@@ -50,7 +50,7 @@ function containsCommonItem(arr1, arr2) {
 console.log("containsCommonItem", containsCommonItem(array1, array2) );
 // ________________________________
 // ________________________________
-// 8. Before you start codding, walk through your code and write down the steps you ar going to follow
+// 8. Before you start codding, walk through your code and write down the steps you are going to follow
 array1 = ['a', 'b', 'c', 'd', 'x'];
 array2 = ['z', 'y', 'x'];
 // const obj = {
