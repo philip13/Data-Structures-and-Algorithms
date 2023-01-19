@@ -14,7 +14,7 @@ puts "strings.pop() #{strings}"
 
 # unshift will add a new item to the beginning of an array.
 strings.unshift('x') # Big O(n) Time Complexity
-
+puts "after string unshift('x') #{strings.inspect}"
 
 
 # //splice
