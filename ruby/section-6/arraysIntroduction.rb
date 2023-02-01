@@ -28,6 +28,7 @@ puts "splice with ruby = #{strings.inspect}"
 # [ 'a', 'b', 'alien', 'c', 'd' ]
 
 =begin
+# Don't use 'Monkey paching'
 class Array
   def splice(start, len, *replace)
     ret = self[start, len]
